@@ -306,7 +306,8 @@
     #define LED_PIN             12
     #define LED_ON_STATE        1
     #define BOOTLOADER_WAIT 10
-
+    
+    #define BUTTON_INPUT_MODE 	CR_INPUT
     #define BUTTON_BANK      GPIOB
     #define BUTTON_PIN           2
     #define BUTTON_PRESSED_STATE 1
